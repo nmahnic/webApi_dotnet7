@@ -14,3 +14,11 @@
     - User name: SA
     - Password: hola1234
 - Crear Proyecto 
+    - F1: Create ".NET: New Project" -> ASP.NET Core Web API Web, WebApi -> Choice a project name
+    - Add Controllers and Models
+    - Move to project folder, build and run
+```
+cd MagicVilla.WebApi
+dotnet build
+dotnet run
+```
